@@ -1,0 +1,19 @@
+{
+  "name": "grunt-append-string",
+  "version": "0.0.1",
+  "description": "Adds a string to a file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grumpydev22/grunt-append-string.git"
+  },
+  "author": "andy blackledge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grumpydev22/grunt-append-string/issues"
+  },
+  "homepage": "https://github.com/grumpydev22/grunt-append-string"
+}
